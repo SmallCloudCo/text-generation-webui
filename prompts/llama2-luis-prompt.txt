@@ -1,0 +1,1 @@
+<s>[INST] {user_instruction} [/INST] {model_response}</s>
